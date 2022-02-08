@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paul-Desii
 - 👀 I’m interested in web and blockchain development.
-- 🌱 I’m currently learning web deelopment.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on any frontend development project.
 - 📫 How to reach me paulalsodesigns@gmail.com.
 
