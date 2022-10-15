@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and blockchain development.
 - 🌱 I’m currently working on MERN web development.
 - 💞️ I’m looking to collaborate on frontend and backend development projects.
-- 📫 You can reach me via paulalsodesigns@gmail.com.
+- 📫 You can reach me via paulcydesmond@gmail.com.
 
 <!---
 Paul-Desii/Paul-Desii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
